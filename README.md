@@ -4,6 +4,8 @@
 [![Website](https://img.shields.io/website?label=LAVISDECOR.ART&style=for-the-badge&url=https%3A%2F%2Flavisdecor.art)](http://lavisdecor.art/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/bacdongg?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/bacdongg)
 
+![](https://komarev.com/ghpvc/?username=Bacdong&color=blueviolet&style=flat-square&label=Visitors)
+
 ## Enviroment ##
 * [NodeJS](https://nodejs.org/) version 17.0.1
 * [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1
@@ -11,13 +13,12 @@
 * [ThreeJS](https://threejs.org/) version 0.128.0
 * [Typescript](https://github.com/microsoft/TypeScript) version 4.2.4
 
-![](https://komarev.com/ghpvc/?username=Bacdong&color=blueviolet&style=flat-square&label=Visitors)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bacdong&theme=monokai)
 
 <div align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=bacdong&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bacdong" 
+    width="100%"
   />
 </div>
 
