@@ -1,10 +1,14 @@
 ### Hi there, I'm Bacdongg <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> ###
 
-[![Website](https://img.shields.io/website?label=VLAUNCH.GROUP&style=for-the-badge&url=https%3A%2F%2Fvlaunch.group)](http://vlaunch.group/)
-[![Website](https://img.shields.io/website?label=LAVISDECOR.ART&style=for-the-badge&url=https%3A%2F%2Flavisdecor.art)](http://lavisdecor.art/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/bacdongg?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/bacdongg)
-
 ![](https://komarev.com/ghpvc/?username=Bacdong&color=blueviolet&style=flat-square&label=Visitors)
+
+<div align="center">
+
+  [![Website](https://img.shields.io/website?label=VLAUNCH.GROUP&style=for-the-badge&url=https%3A%2F%2Fvlaunch.group)](http://vlaunch.group/)
+  [![Website](https://img.shields.io/website?label=LAVISDECOR.ART&style=for-the-badge&url=https%3A%2F%2Flavisdecor.art)](http://lavisdecor.art/)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/bacdongg?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/bacdongg)
+
+</div>
 
 ## Enviroment ##
 * [NodeJS](https://nodejs.org/) version 17.0.1
@@ -22,7 +26,7 @@
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=bacdong&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bacdong" 
-    width="90%"
+    width="86%"
   />
 </div>
 
