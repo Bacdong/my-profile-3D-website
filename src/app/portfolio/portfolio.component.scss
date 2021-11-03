@@ -1,0 +1,125 @@
+main {
+  color: white;
+  z-index: 99;
+  position: absolute;
+  width: 100%;
+  margin: 0 auto;
+  padding: 120px 0;
+
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+
+  h1, h2, h3,
+  blockquote {
+    font-size: 70px;
+    font-weight: 600;
+    font-style: normal;
+  }
+
+  header,
+  section {
+    background: var(--dark-bg);
+    border-radius: 4px;
+    box-shadow: 0 6px 20px rgba($color: #fff, $alpha: 0.5);
+  }
+
+  header {
+    grid-column: 2 / span 5;
+    font-size: 2.5rem;
+    padding: 2rem;
+    margin-bottom: var(--spacing);
+  }
+
+  section {
+    grid-column: 2 / 8;
+    padding: 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    margin-bottom: var(--spacing);
+  }
+  
+  blockquote {
+    padding: 0;
+    grid-column: 2 / span 9;
+    margin: 0 0 var(--spacing);
+    p {
+      color: white;
+      font-size: 4rem;
+      display: inline-block;
+      text-shadow: 0 4px 10px black;
+      span { float: right; }
+    }
+  }
+  
+  .left {
+    grid-column: 6 / 12;
+  }
+}
+
+@media screen and (max-width: 1025px) {
+  main {
+    padding: 80px 0;
+
+    header,
+    section,
+    .left {
+      grid-column: 1 / span 12;
+      margin: 2rem;
+    }
+
+    h1, h2, h3,
+    blockquote { font-size: 40px; }
+
+    blockquote {
+      margin: 0;
+      padding: 0 2rem;
+      grid-column: 1 / span 12;
+      p {
+        font-size: 40px;
+        line-height: 150%;
+        &:last-child {
+          margin: 0;
+          display: block;
+        }
+      }
+      &:last-child { margin-top: 2rem; }
+    }
+
+    section {
+      h2, h3 { 
+        font-size: 50px; 
+        margin: 1.5rem 0;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 767px) {
+  main {
+    padding: 40px 0;
+
+    header,
+    section,
+    .left { margin: 2rem 1rem; }
+
+    header { 
+      padding: 1rem; 
+      p { font-size: 22px; }
+    }
+
+    blockquote {
+      padding: 0 1rem;
+      p { font-size: 24px; }
+      &:last-child { margin-top: 0; }
+    }
+
+    section {
+      h2, h3 { font-size: 40px; }
+    }
+  }
+}
+
+
+
+
+
