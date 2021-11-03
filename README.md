@@ -1,19 +1,15 @@
 ### Hi there, I'm Bacdongg <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> ###
 
-## Reference Links ##
-* [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1
-* [RxJS](https://rxjs.dev) version 6.6.7
-* [ThreeJS](https://threejs.org/) version 0.128.0
-
-## Environment ##
-* NodeJS: v17.0.1
-* Angular: v12.0.1
-* RxJS: v6.6.7
-* Typescript: v4.2.4
-
 [![Website](https://img.shields.io/website?label=VLAUNCH.GROUP&style=for-the-badge&url=https%3A%2F%2Fvlaunch.group)](http://vlaunch.group/)
 [![Website](https://img.shields.io/website?label=LAVISDECOR.ART&style=for-the-badge&url=https%3A%2F%2Flavisdecor.art)](http://lavisdecor.art/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/bacdongg?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/bacdongg)
+
+## Enviroment ##
+* [NodeJS](https://nodejs.org/) version 17.0.1
+* [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1
+* [RxJS](https://rxjs.dev) version 6.6.7
+* [ThreeJS](https://threejs.org/) version 0.128.0
+* [Typescript](https://github.com/microsoft/TypeScript) version 4.2.4
 
 ![](https://komarev.com/ghpvc/?username=Bacdong&color=blueviolet&style=flat-square&label=Visitors)
 
