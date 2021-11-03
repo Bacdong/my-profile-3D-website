@@ -13,7 +13,11 @@
 * [ThreeJS](https://threejs.org/) version 0.128.0
 * [Typescript](https://github.com/microsoft/TypeScript) version 4.2.4
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bacdong&theme=monokai)
+<div align="center">
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bacdong&theme=monokai)
+
+</div>
 
 <div align="center">
   <img 
