@@ -15,10 +15,10 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bacdong&theme=monokai)
 
-<div align="left">
+<div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=bacdong&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bacdong" 
-    width="100%"
+    width="90%"
   />
 </div>
 
