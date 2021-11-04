@@ -19,7 +19,9 @@ main {
   header,
   section {
     background: var(--dark-bg);
-    border-radius: 4px;
+    backdrop-filter: blur(16px) saturate(180%);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
     box-shadow: 0 6px 20px rgba($color: #fff, $alpha: 0.5);
   }
 
