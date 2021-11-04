@@ -153,6 +153,8 @@
   </p>
 </details>
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 [website]: https://vlaunch.group
 [website]: https://lavisdecor.art
 [twitter]: https://twitter.com/bacdongg
