@@ -23,6 +23,8 @@ main {
     border-radius: 12px;
     border: 1px solid rgba(255, 255, 255, 0.125);
     box-shadow: 0 6px 20px rgba($color: #fff, $alpha: 0.5);
+    background-image: radial-gradient(at 47% 33%, #616161 0, transparent 59%), 
+      radial-gradient(at 82% 65%, var(--dark-bg) 0, transparent 55%);
   }
 
   header {
